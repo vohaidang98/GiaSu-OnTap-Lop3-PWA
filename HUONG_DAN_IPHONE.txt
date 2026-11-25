@@ -5,5 +5,5 @@ GIA SƯ THẢO VY – BẢN IPHONE (PWA)
 3. Trên iPhone, mở đường dẫn HTTPS bằng Safari. Chạm Chia sẻ (Share), chọn Thêm vào Màn hình chính (Add to Home Screen), xác nhận Thêm.
 4. Mở biểu tượng Gia sư Thảo Vy từ màn hình chính. Sau lần truy cập đầu tiên khi còn mạng, dữ liệu nội dung cơ bản được lưu để sử dụng ngoại tuyến.
 5. Kết quả được lưu cục bộ trong dữ liệu web app trên iPhone; vào Phụ huynh > Sao lưu dữ liệu JSON thường xuyên. Nếu xoá dữ liệu Safari/web app hoặc gỡ ứng dụng, dữ liệu có thể mất.
-6. 46 câu hỏi là ngân hàng mẫu, chưa đủ để đánh giá đầy đủ học kỳ I. Phần mềm chưa có chấm tự luận, nhận xét bài viết, AI trực tuyến, đồng bộ iCloud hay xác thực phụ huynh.
+6. 90 câu hỏi là ngân hàng mẫu, chưa đủ để đánh giá đầy đủ học kỳ I. Phần mềm chưa có chấm tự luận, nhận xét bài viết, AI trực tuyến, đồng bộ iCloud hay xác thực phụ huynh.
 7. Muốn phân phối .ipa qua TestFlight/App Store cần đóng gói bằng Xcode trên macOS, mã ký Apple Developer và quy trình phát hành riêng.
